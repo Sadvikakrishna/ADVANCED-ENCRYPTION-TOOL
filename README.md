@@ -23,3 +23,9 @@ the salt and encrypted data from the file, derives the key using the password, a
 select files, enter a password, and perform encryption or decryption actions with just a few clicks, making it user-friendly and practical for protecting sensitive data.
 
 The given AES-256 encryption and decryption tool can be used in a wide range of real-world scenarios where file security and confidentiality are essential
+
+
+#output 
+
+
+![Image](https://github.com/user-attachments/assets/935ad0a6-abc1-438c-8434-c5a3d85c484a)
